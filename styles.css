@@ -344,6 +344,7 @@ p {
 .text-column {
   max-width: 760px;
   color: var(--muted);
+}
 
  .site-footer {
   background: #1f2937;
